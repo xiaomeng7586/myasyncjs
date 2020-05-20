@@ -1,0 +1,2 @@
+# myasyncjs
+callback to promise
